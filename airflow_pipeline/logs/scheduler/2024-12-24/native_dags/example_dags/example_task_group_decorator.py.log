@@ -618,3 +618,24 @@
 [2024-12-24 17:59:46,270] {logging_mixin.py:115} INFO - [2024-12-24 17:59:46,270] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:46,282] {logging_mixin.py:115} INFO - [2024-12-24 17:59:46,282] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2024-12-23T20:59:46.282562+00:00, run_after=2024-12-24T20:59:46.282562+00:00
 [2024-12-24 17:59:46,295] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.061 seconds
+[2024-12-24 18:00:21,908] {processor.py:153} INFO - Started process (PID=46202) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:21,909] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-24 18:00:21,910] {logging_mixin.py:115} INFO - [2024-12-24 18:00:21,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:21,925] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:21,954] {logging_mixin.py:115} INFO - [2024-12-24 18:00:21,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:21,964] {logging_mixin.py:115} INFO - [2024-12-24 18:00:21,963] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2024-12-23T21:00:21.963678+00:00, run_after=2024-12-24T21:00:21.963678+00:00
+[2024-12-24 18:00:21,973] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.068 seconds
+[2024-12-24 18:00:52,425] {processor.py:153} INFO - Started process (PID=46409) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:52,426] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-24 18:00:52,426] {logging_mixin.py:115} INFO - [2024-12-24 18:00:52,426] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:52,442] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:00:52,472] {logging_mixin.py:115} INFO - [2024-12-24 18:00:52,472] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:52,481] {logging_mixin.py:115} INFO - [2024-12-24 18:00:52,481] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2024-12-23T21:00:52.481617+00:00, run_after=2024-12-24T21:00:52.481617+00:00
+[2024-12-24 18:00:52,491] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.069 seconds
+[2024-12-24 18:01:47,601] {processor.py:153} INFO - Started process (PID=46657) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:01:47,602] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-24 18:01:47,602] {logging_mixin.py:115} INFO - [2024-12-24 18:01:47,602] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:01:47,620] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-24 18:01:47,634] {logging_mixin.py:115} INFO - [2024-12-24 18:01:47,633] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:47,650] {logging_mixin.py:115} INFO - [2024-12-24 18:01:47,649] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2024-12-23T21:01:47.649719+00:00, run_after=2024-12-24T21:01:47.649719+00:00
+[2024-12-24 18:01:47,661] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds

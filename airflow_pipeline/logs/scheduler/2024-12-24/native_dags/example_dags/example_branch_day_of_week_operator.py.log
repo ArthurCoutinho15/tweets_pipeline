@@ -576,3 +576,24 @@
 [2024-12-24 17:59:50,438] {logging_mixin.py:115} INFO - [2024-12-24 17:59:50,438] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:50,451] {logging_mixin.py:115} INFO - [2024-12-24 17:59:50,451] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
 [2024-12-24 17:59:50,460] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.041 seconds
+[2024-12-24 18:00:25,870] {processor.py:153} INFO - Started process (PID=46266) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:25,871] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-12-24 18:00:25,872] {logging_mixin.py:115} INFO - [2024-12-24 18:00:25,872] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:25,878] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:25,889] {logging_mixin.py:115} INFO - [2024-12-24 18:00:25,889] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:25,901] {logging_mixin.py:115} INFO - [2024-12-24 18:00:25,901] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:25,910] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.042 seconds
+[2024-12-24 18:00:56,428] {processor.py:153} INFO - Started process (PID=46427) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:56,429] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-12-24 18:00:56,429] {logging_mixin.py:115} INFO - [2024-12-24 18:00:56,429] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:56,435] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:00:56,447] {logging_mixin.py:115} INFO - [2024-12-24 18:00:56,447] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:56,462] {logging_mixin.py:115} INFO - [2024-12-24 18:00:56,462] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:56,473] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.047 seconds
+[2024-12-24 18:01:51,602] {processor.py:153} INFO - Started process (PID=46678) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:01:51,604] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-12-24 18:01:51,604] {logging_mixin.py:115} INFO - [2024-12-24 18:01:51,604] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:01:51,610] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-24 18:01:51,621] {logging_mixin.py:115} INFO - [2024-12-24 18:01:51,621] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:51,641] {logging_mixin.py:115} INFO - [2024-12-24 18:01:51,640] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:51,658] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.058 seconds

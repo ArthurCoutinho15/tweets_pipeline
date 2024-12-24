@@ -660,3 +660,31 @@
 [2024-12-24 17:59:33,623] {logging_mixin.py:115} INFO - [2024-12-24 17:59:33,623] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:33,634] {logging_mixin.py:115} INFO - [2024-12-24 17:59:33,634] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
 [2024-12-24 17:59:33,645] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2024-12-24 18:00:09,486] {processor.py:153} INFO - Started process (PID=46118) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:09,487] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-12-24 18:00:09,487] {logging_mixin.py:115} INFO - [2024-12-24 18:00:09,487] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:09,494] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:09,505] {logging_mixin.py:115} INFO - [2024-12-24 18:00:09,505] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:09,516] {logging_mixin.py:115} INFO - [2024-12-24 18:00:09,516] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:09,524] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2024-12-24 18:00:40,006] {processor.py:153} INFO - Started process (PID=46357) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:40,007] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-12-24 18:00:40,007] {logging_mixin.py:115} INFO - [2024-12-24 18:00:40,007] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:40,016] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:00:40,029] {logging_mixin.py:115} INFO - [2024-12-24 18:00:40,029] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:40,040] {logging_mixin.py:115} INFO - [2024-12-24 18:00:40,040] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:40,050] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.046 seconds
+[2024-12-24 18:01:11,721] {processor.py:153} INFO - Started process (PID=46491) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:11,722] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-12-24 18:01:11,722] {logging_mixin.py:115} INFO - [2024-12-24 18:01:11,722] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:11,729] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:11,741] {logging_mixin.py:115} INFO - [2024-12-24 18:01:11,741] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:11,753] {logging_mixin.py:115} INFO - [2024-12-24 18:01:11,753] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:11,763] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2024-12-24 18:01:35,599] {processor.py:153} INFO - Started process (PID=46598) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:35,600] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-12-24 18:01:35,600] {logging_mixin.py:115} INFO - [2024-12-24 18:01:35,600] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:35,608] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-24 18:01:35,621] {logging_mixin.py:115} INFO - [2024-12-24 18:01:35,621] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:35,634] {logging_mixin.py:115} INFO - [2024-12-24 18:01:35,634] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:35,646] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds

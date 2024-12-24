@@ -660,3 +660,31 @@
 [2024-12-24 17:59:38,121] {logging_mixin.py:115} INFO - [2024-12-24 17:59:38,121] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:38,132] {logging_mixin.py:115} INFO - [2024-12-24 17:59:38,132] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
 [2024-12-24 17:59:38,141] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.042 seconds
+[2024-12-24 18:00:14,206] {processor.py:153} INFO - Started process (PID=46146) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:14,207] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-12-24 18:00:14,208] {logging_mixin.py:115} INFO - [2024-12-24 18:00:14,207] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:14,214] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:14,225] {logging_mixin.py:115} INFO - [2024-12-24 18:00:14,225] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:14,238] {logging_mixin.py:115} INFO - [2024-12-24 18:00:14,238] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:14,249] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.045 seconds
+[2024-12-24 18:00:44,625] {processor.py:153} INFO - Started process (PID=46375) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:44,632] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-12-24 18:00:44,635] {logging_mixin.py:115} INFO - [2024-12-24 18:00:44,635] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:44,648] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:00:44,682] {logging_mixin.py:115} INFO - [2024-12-24 18:00:44,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:44,702] {logging_mixin.py:115} INFO - [2024-12-24 18:00:44,701] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:44,718] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.098 seconds
+[2024-12-24 18:01:15,713] {processor.py:153} INFO - Started process (PID=46509) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:15,714] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-12-24 18:01:15,714] {logging_mixin.py:115} INFO - [2024-12-24 18:01:15,714] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:15,721] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:15,732] {logging_mixin.py:115} INFO - [2024-12-24 18:01:15,731] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:15,743] {logging_mixin.py:115} INFO - [2024-12-24 18:01:15,743] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:15,753] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.041 seconds
+[2024-12-24 18:01:40,624] {processor.py:153} INFO - Started process (PID=46623) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:40,625] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-12-24 18:01:40,626] {logging_mixin.py:115} INFO - [2024-12-24 18:01:40,626] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:40,632] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-12-24 18:01:40,644] {logging_mixin.py:115} INFO - [2024-12-24 18:01:40,644] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:40,658] {logging_mixin.py:115} INFO - [2024-12-24 18:01:40,658] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:40,668] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds

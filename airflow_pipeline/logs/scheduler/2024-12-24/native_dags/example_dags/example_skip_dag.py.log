@@ -639,3 +639,31 @@
 [2024-12-24 17:59:42,570] {logging_mixin.py:115} INFO - [2024-12-24 17:59:42,570] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:42,582] {logging_mixin.py:115} INFO - [2024-12-24 17:59:42,581] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-23T20:59:42.581770+00:00, run_after=2024-12-24T20:59:42.581770+00:00
 [2024-12-24 17:59:42,591] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2024-12-24 18:00:19,171] {processor.py:153} INFO - Started process (PID=46193) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:19,172] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-24 18:00:19,172] {logging_mixin.py:115} INFO - [2024-12-24 18:00:19,172] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:19,176] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:19,188] {logging_mixin.py:115} INFO - [2024-12-24 18:00:19,188] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:19,199] {logging_mixin.py:115} INFO - [2024-12-24 18:00:19,199] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-23T21:00:19.199322+00:00, run_after=2024-12-24T21:00:19.199322+00:00
+[2024-12-24 18:00:19,208] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2024-12-24 18:00:49,648] {processor.py:153} INFO - Started process (PID=46400) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:49,648] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-24 18:00:49,649] {logging_mixin.py:115} INFO - [2024-12-24 18:00:49,649] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:49,652] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:00:49,664] {logging_mixin.py:115} INFO - [2024-12-24 18:00:49,664] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:49,678] {logging_mixin.py:115} INFO - [2024-12-24 18:00:49,678] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-23T21:00:49.677881+00:00, run_after=2024-12-24T21:00:49.677881+00:00
+[2024-12-24 18:00:49,693] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2024-12-24 18:01:20,846] {processor.py:153} INFO - Started process (PID=46535) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:20,847] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-24 18:01:20,847] {logging_mixin.py:115} INFO - [2024-12-24 18:01:20,847] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:20,850] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:20,862] {logging_mixin.py:115} INFO - [2024-12-24 18:01:20,862] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:20,872] {logging_mixin.py:115} INFO - [2024-12-24 18:01:20,872] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-23T21:01:20.872445+00:00, run_after=2024-12-24T21:01:20.872445+00:00
+[2024-12-24 18:01:20,881] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2024-12-24 18:01:43,989] {processor.py:153} INFO - Started process (PID=46635) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:43,989] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-24 18:01:43,990] {logging_mixin.py:115} INFO - [2024-12-24 18:01:43,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:43,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-24 18:01:44,004] {logging_mixin.py:115} INFO - [2024-12-24 18:01:44,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:44,015] {logging_mixin.py:115} INFO - [2024-12-24 18:01:44,015] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-23T21:01:44.015540+00:00, run_after=2024-12-24T21:01:44.015540+00:00
+[2024-12-24 18:01:44,026] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds

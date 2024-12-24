@@ -583,3 +583,24 @@
 [2024-12-24 17:59:53,916] {logging_mixin.py:115} INFO - [2024-12-24 17:59:53,915] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:53,927] {logging_mixin.py:115} INFO - [2024-12-24 17:59:53,927] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2024-12-24T16:59:53.927380+00:00, run_after=2024-12-24T20:59:53.927380+00:00
 [2024-12-24 17:59:53,938] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2024-12-24 18:00:26,997] {processor.py:153} INFO - Started process (PID=46276) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:26,998] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-24 18:00:26,999] {logging_mixin.py:115} INFO - [2024-12-24 18:00:26,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:27,003] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:27,020] {logging_mixin.py:115} INFO - [2024-12-24 18:00:27,020] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:27,042] {logging_mixin.py:115} INFO - [2024-12-24 18:00:27,042] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2024-12-24T17:00:27.041871+00:00, run_after=2024-12-24T21:00:27.041871+00:00
+[2024-12-24 18:00:27,054] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2024-12-24 18:00:57,552] {processor.py:153} INFO - Started process (PID=46428) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:57,553] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-24 18:00:57,554] {logging_mixin.py:115} INFO - [2024-12-24 18:00:57,554] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:57,557] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:00:57,570] {logging_mixin.py:115} INFO - [2024-12-24 18:00:57,569] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:57,582] {logging_mixin.py:115} INFO - [2024-12-24 18:00:57,582] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2024-12-24T17:00:57.581882+00:00, run_after=2024-12-24T21:00:57.581882+00:00
+[2024-12-24 18:00:57,592] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2024-12-24 18:01:52,728] {processor.py:153} INFO - Started process (PID=46685) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:01:52,729] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-24 18:01:52,729] {logging_mixin.py:115} INFO - [2024-12-24 18:01:52,729] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:01:52,733] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-24 18:01:52,745] {logging_mixin.py:115} INFO - [2024-12-24 18:01:52,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:52,757] {logging_mixin.py:115} INFO - [2024-12-24 18:01:52,757] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2024-12-24T17:01:52.756924+00:00, run_after=2024-12-24T21:01:52.756924+00:00
+[2024-12-24 18:01:52,766] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds

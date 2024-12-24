@@ -742,3 +742,19 @@
 [2024-12-24 17:59:41,462] {logging_mixin.py:115} INFO - [2024-12-24 17:59:41,462] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
 [2024-12-24 17:59:41,462] {logging_mixin.py:115} INFO - [2024-12-24 17:59:41,462] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
 [2024-12-24 17:59:41,471] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.045 seconds
+[2024-12-24 18:00:50,184] {processor.py:153} INFO - Started process (PID=46169) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:00:50,185] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2024-12-24 18:00:50,185] {logging_mixin.py:115} INFO - [2024-12-24 18:00:50,185] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:00:50,188] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:00:50,203] {logging_mixin.py:115} INFO - [2024-12-24 18:00:50,203] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-12-24 18:00:50,214] {logging_mixin.py:115} INFO - [2024-12-24 18:00:50,214] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2024-12-24 18:00:50,214] {logging_mixin.py:115} INFO - [2024-12-24 18:00:50,214] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2024-12-24 18:00:50,223] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.041 seconds
+[2024-12-24 18:01:43,598] {processor.py:153} INFO - Started process (PID=46634) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:01:43,600] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2024-12-24 18:01:43,600] {logging_mixin.py:115} INFO - [2024-12-24 18:01:43,600] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:01:43,603] {processor.py:651} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-12-24 18:01:43,619] {logging_mixin.py:115} INFO - [2024-12-24 18:01:43,619] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-12-24 18:01:43,630] {logging_mixin.py:115} INFO - [2024-12-24 18:01:43,630] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2024-12-24 18:01:43,630] {logging_mixin.py:115} INFO - [2024-12-24 18:01:43,630] {dag.py:2927} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2024-12-24 18:01:43,639] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.043 seconds

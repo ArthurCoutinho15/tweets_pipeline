@@ -488,3 +488,18 @@
 [2024-12-24 18:00:05,498] {logging_mixin.py:115} INFO - [2024-12-24 18:00:05,498] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-12-24 18:00:05,499] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-12-24 18:00:05,507] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2024-12-24 18:00:37,125] {processor.py:153} INFO - Started process (PID=46339) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:00:37,125] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-24 18:00:37,125] {logging_mixin.py:115} INFO - [2024-12-24 18:00:37,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:00:37,126] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:00:37,134] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2024-12-24 18:01:08,837] {processor.py:153} INFO - Started process (PID=46481) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:08,838] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-24 18:01:08,839] {logging_mixin.py:115} INFO - [2024-12-24 18:01:08,839] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:08,840] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:08,847] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2024-12-24 18:01:31,098] {processor.py:153} INFO - Started process (PID=46580) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:31,098] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-12-24 18:01:31,099] {logging_mixin.py:115} INFO - [2024-12-24 18:01:31,099] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:31,100] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-12-24 18:01:31,107] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds

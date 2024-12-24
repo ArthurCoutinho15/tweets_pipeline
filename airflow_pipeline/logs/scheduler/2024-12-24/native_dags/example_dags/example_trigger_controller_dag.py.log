@@ -702,3 +702,17 @@
 [2024-12-24 18:00:02,807] {logging_mixin.py:115} INFO - [2024-12-24 18:00:02,807] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 18:00:02,819] {logging_mixin.py:115} INFO - [2024-12-24 18:00:02,819] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
 [2024-12-24 18:00:02,829] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.040 seconds
+[2024-12-24 18:01:05,451] {processor.py:153} INFO - Started process (PID=46464) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:05,452] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2024-12-24 18:01:05,452] {logging_mixin.py:115} INFO - [2024-12-24 18:01:05,452] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:05,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:05,466] {logging_mixin.py:115} INFO - [2024-12-24 18:01:05,466] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:05,477] {logging_mixin.py:115} INFO - [2024-12-24 18:01:05,477] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-12-24 18:01:05,488] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.039 seconds
+[2024-12-24 18:01:28,866] {processor.py:153} INFO - Started process (PID=46571) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:28,866] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2024-12-24 18:01:28,866] {logging_mixin.py:115} INFO - [2024-12-24 18:01:28,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:28,869] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-12-24 18:01:28,880] {logging_mixin.py:115} INFO - [2024-12-24 18:01:28,880] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:28,891] {logging_mixin.py:115} INFO - [2024-12-24 18:01:28,891] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-12-24 18:01:28,900] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.037 seconds

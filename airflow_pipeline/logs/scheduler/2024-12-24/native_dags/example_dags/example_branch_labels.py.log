@@ -646,3 +646,31 @@
 [2024-12-24 17:59:35,036] {logging_mixin.py:115} INFO - [2024-12-24 17:59:35,035] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:59:35,047] {logging_mixin.py:115} INFO - [2024-12-24 17:59:35,047] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
 [2024-12-24 17:59:35,056] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2024-12-24 18:00:10,614] {processor.py:153} INFO - Started process (PID=46119) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:10,615] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-12-24 18:00:10,615] {logging_mixin.py:115} INFO - [2024-12-24 18:00:10,615] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:10,619] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:10,630] {logging_mixin.py:115} INFO - [2024-12-24 18:00:10,630] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:10,642] {logging_mixin.py:115} INFO - [2024-12-24 18:00:10,641] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:10,650] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2024-12-24 18:00:41,135] {processor.py:153} INFO - Started process (PID=46358) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:41,136] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-12-24 18:00:41,136] {logging_mixin.py:115} INFO - [2024-12-24 18:00:41,136] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:41,140] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:00:41,153] {logging_mixin.py:115} INFO - [2024-12-24 18:00:41,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:00:41,165] {logging_mixin.py:115} INFO - [2024-12-24 18:00:41,165] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:00:41,174] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.041 seconds
+[2024-12-24 18:01:12,844] {processor.py:153} INFO - Started process (PID=46498) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:12,845] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-12-24 18:01:12,845] {logging_mixin.py:115} INFO - [2024-12-24 18:01:12,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:12,849] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:12,861] {logging_mixin.py:115} INFO - [2024-12-24 18:01:12,860] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:12,872] {logging_mixin.py:115} INFO - [2024-12-24 18:01:12,872] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:12,881] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2024-12-24 18:01:36,221] {processor.py:153} INFO - Started process (PID=46599) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:36,222] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-12-24 18:01:36,222] {logging_mixin.py:115} INFO - [2024-12-24 18:01:36,222] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:36,226] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-12-24 18:01:36,240] {logging_mixin.py:115} INFO - [2024-12-24 18:01:36,240] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 18:01:36,253] {logging_mixin.py:115} INFO - [2024-12-24 18:01:36,252] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 18:01:36,263] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.045 seconds
