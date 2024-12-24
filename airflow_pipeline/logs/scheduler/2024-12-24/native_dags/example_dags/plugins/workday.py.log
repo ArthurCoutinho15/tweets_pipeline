@@ -428,3 +428,63 @@
 [2024-12-24 17:53:50,488] {logging_mixin.py:115} INFO - [2024-12-24 17:53:50,488] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
 [2024-12-24 17:53:50,490] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
 [2024-12-24 17:53:50,500] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2024-12-24 17:54:25,462] {processor.py:153} INFO - Started process (PID=44121) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:25,462] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:54:25,463] {logging_mixin.py:115} INFO - [2024-12-24 17:54:25,463] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:25,464] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:25,472] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.012 seconds
+[2024-12-24 17:54:55,844] {processor.py:153} INFO - Started process (PID=44365) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:55,845] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:54:55,845] {logging_mixin.py:115} INFO - [2024-12-24 17:54:55,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:55,846] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:54:55,854] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.012 seconds
+[2024-12-24 17:55:25,755] {processor.py:153} INFO - Started process (PID=44498) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:25,756] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:55:25,757] {logging_mixin.py:115} INFO - [2024-12-24 17:55:25,757] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:25,758] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:25,768] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-12-24 17:55:56,599] {processor.py:153} INFO - Started process (PID=44663) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:56,599] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:55:56,599] {logging_mixin.py:115} INFO - [2024-12-24 17:55:56,599] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:56,601] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:55:56,608] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.011 seconds
+[2024-12-24 17:56:30,356] {processor.py:153} INFO - Started process (PID=44825) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:56:30,357] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:56:30,358] {logging_mixin.py:115} INFO - [2024-12-24 17:56:30,358] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:56:30,359] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:56:30,367] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2024-12-24 17:57:02,238] {processor.py:153} INFO - Started process (PID=44967) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:02,240] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:57:02,240] {logging_mixin.py:115} INFO - [2024-12-24 17:57:02,240] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:02,242] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:02,252] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-12-24 17:57:20,507] {processor.py:153} INFO - Started process (PID=45048) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:20,507] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:57:20,507] {logging_mixin.py:115} INFO - [2024-12-24 17:57:20,507] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:20,509] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:20,516] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.012 seconds
+[2024-12-24 17:57:54,632] {processor.py:153} INFO - Started process (PID=45239) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:54,633] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:57:54,633] {logging_mixin.py:115} INFO - [2024-12-24 17:57:54,633] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:54,635] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:57:54,642] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2024-12-24 17:58:25,277] {processor.py:153} INFO - Started process (PID=45444) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:25,278] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:58:25,278] {logging_mixin.py:115} INFO - [2024-12-24 17:58:25,278] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:25,279] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:25,287] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2024-12-24 17:58:57,429] {processor.py:153} INFO - Started process (PID=45665) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:57,430] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:58:57,430] {logging_mixin.py:115} INFO - [2024-12-24 17:58:57,430] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:57,432] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:58:57,439] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2024-12-24 17:59:30,168] {processor.py:153} INFO - Started process (PID=45865) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:59:30,168] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 17:59:30,169] {logging_mixin.py:115} INFO - [2024-12-24 17:59:30,169] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:59:30,170] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 17:59:30,179] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2024-12-24 18:00:04,366] {processor.py:153} INFO - Started process (PID=46075) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 18:00:04,367] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-24 18:00:04,368] {logging_mixin.py:115} INFO - [2024-12-24 18:00:04,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 18:00:04,369] {processor.py:653} WARNING - No viable dags retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-24 18:00:04,376] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds

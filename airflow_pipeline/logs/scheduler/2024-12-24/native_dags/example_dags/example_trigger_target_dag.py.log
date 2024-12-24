@@ -681,3 +681,87 @@
 [2024-12-24 17:54:16,146] {logging_mixin.py:115} INFO - [2024-12-24 17:54:16,146] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:54:16,157] {logging_mixin.py:115} INFO - [2024-12-24 17:54:16,157] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
 [2024-12-24 17:54:16,166] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2024-12-24 17:54:47,965] {processor.py:153} INFO - Started process (PID=44337) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:54:47,966] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:54:47,966] {logging_mixin.py:115} INFO - [2024-12-24 17:54:47,966] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:54:47,976] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:54:47,986] {logging_mixin.py:115} INFO - [2024-12-24 17:54:47,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:54:47,996] {logging_mixin.py:115} INFO - [2024-12-24 17:54:47,996] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:54:48,006] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.043 seconds
+[2024-12-24 17:55:21,027] {processor.py:153} INFO - Started process (PID=44479) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:21,029] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:55:21,030] {logging_mixin.py:115} INFO - [2024-12-24 17:55:21,030] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:21,048] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:21,073] {logging_mixin.py:115} INFO - [2024-12-24 17:55:21,072] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:21,088] {logging_mixin.py:115} INFO - [2024-12-24 17:55:21,088] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:55:21,102] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2024-12-24 17:55:52,890] {processor.py:153} INFO - Started process (PID=44634) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:52,890] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:55:52,891] {logging_mixin.py:115} INFO - [2024-12-24 17:55:52,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:52,903] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:55:52,913] {logging_mixin.py:115} INFO - [2024-12-24 17:55:52,913] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:52,924] {logging_mixin.py:115} INFO - [2024-12-24 17:55:52,924] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:55:52,934] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.046 seconds
+[2024-12-24 17:56:25,305] {processor.py:153} INFO - Started process (PID=44800) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:25,305] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:56:25,306] {logging_mixin.py:115} INFO - [2024-12-24 17:56:25,306] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:25,317] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:25,328] {logging_mixin.py:115} INFO - [2024-12-24 17:56:25,328] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:25,338] {logging_mixin.py:115} INFO - [2024-12-24 17:56:25,338] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:56:25,348] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2024-12-24 17:56:57,356] {processor.py:153} INFO - Started process (PID=44942) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:57,357] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:56:57,357] {logging_mixin.py:115} INFO - [2024-12-24 17:56:57,357] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:57,371] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:56:57,387] {logging_mixin.py:115} INFO - [2024-12-24 17:56:57,387] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:57,402] {logging_mixin.py:115} INFO - [2024-12-24 17:56:57,402] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:56:57,412] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2024-12-24 17:57:15,373] {processor.py:153} INFO - Started process (PID=45023) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:15,373] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:57:15,373] {logging_mixin.py:115} INFO - [2024-12-24 17:57:15,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:15,384] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:15,396] {logging_mixin.py:115} INFO - [2024-12-24 17:57:15,396] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:15,407] {logging_mixin.py:115} INFO - [2024-12-24 17:57:15,406] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:57:15,416] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2024-12-24 17:57:49,004] {processor.py:153} INFO - Started process (PID=45220) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:49,004] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:57:49,005] {logging_mixin.py:115} INFO - [2024-12-24 17:57:49,005] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:49,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:57:49,026] {logging_mixin.py:115} INFO - [2024-12-24 17:57:49,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:49,036] {logging_mixin.py:115} INFO - [2024-12-24 17:57:49,036] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:57:49,046] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2024-12-24 17:58:19,391] {processor.py:153} INFO - Started process (PID=45404) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:19,391] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:58:19,392] {logging_mixin.py:115} INFO - [2024-12-24 17:58:19,392] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:19,402] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:19,413] {logging_mixin.py:115} INFO - [2024-12-24 17:58:19,413] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:19,425] {logging_mixin.py:115} INFO - [2024-12-24 17:58:19,425] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:58:19,434] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.046 seconds
+[2024-12-24 17:58:52,563] {processor.py:153} INFO - Started process (PID=45646) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:52,565] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:58:52,566] {logging_mixin.py:115} INFO - [2024-12-24 17:58:52,566] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:52,579] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:58:52,594] {logging_mixin.py:115} INFO - [2024-12-24 17:58:52,594] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:52,608] {logging_mixin.py:115} INFO - [2024-12-24 17:58:52,608] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:58:52,618] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2024-12-24 17:59:24,476] {processor.py:153} INFO - Started process (PID=45833) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:24,477] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:59:24,477] {logging_mixin.py:115} INFO - [2024-12-24 17:59:24,477] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:24,488] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:24,499] {logging_mixin.py:115} INFO - [2024-12-24 17:59:24,499] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:24,510] {logging_mixin.py:115} INFO - [2024-12-24 17:59:24,510] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:59:24,521] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2024-12-24 17:59:55,237] {processor.py:153} INFO - Started process (PID=46035) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:55,238] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:59:55,238] {logging_mixin.py:115} INFO - [2024-12-24 17:59:55,238] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:55,248] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:55,258] {logging_mixin.py:115} INFO - [2024-12-24 17:59:55,258] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:55,269] {logging_mixin.py:115} INFO - [2024-12-24 17:59:55,268] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:59:55,277] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.043 seconds
+[2024-12-24 17:59:59,417] {processor.py:153} INFO - Started process (PID=46055) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:59,417] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-24 17:59:59,417] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,417] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:59,429] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-24 17:59:59,440] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:59,451] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,451] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-24 17:59:59,460] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds

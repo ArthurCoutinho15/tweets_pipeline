@@ -1,7 +1,7 @@
 venv
-/home/arthur/pipeline_tweets/airflow_pipeline/airflow-webserver.pid
-/home/arthur/pipeline_tweets/airflow_pipeline/logs
-/home/arthur/pipeline_tweets/airflow_pipeline/airflow.cfg
-/home/arthur/pipeline_tweets/airflow_pipeline/airflow.db
-/home/arthur/pipeline_tweets/airflow_pipeline/standalone_admin_password.txt
-/home/arthur/pipeline_tweets/airflow_pipeline/webserver_config.py
+airflow-webserver.pid
+logs
+airflow.cfg
+airflow.db
+standalone_admin_password.txt
+webserver_config.py

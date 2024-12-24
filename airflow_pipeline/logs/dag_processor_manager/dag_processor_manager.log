@@ -4002,3 +4002,456 @@ File Path                                                                       
 /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:53:46
 /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:53:47
 ================================================================================
+[2024-12-24 17:54:30,980] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:53:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:54:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:54:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:54:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:54:26
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  2.21s           2024-12-24T20:53:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:53:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:54:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  2.11s           2024-12-24T20:53:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.20s           2024-12-24T20:54:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:54:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  32.29s          2024-12-24T20:53:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:54:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  1.21s           2024-12-24T20:54:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:54:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:54:05
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:54:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:54:07
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.80s           2024-12-24T20:54:09
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  32.29s          2024-12-24T20:54:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:54:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:54:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  -32.08s         2024-12-24T20:54:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:54:28
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:54:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:54:24
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:53:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:53:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:54:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:54:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:54:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:54:20
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:54:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:54:54
+================================================================================
+[2024-12-24 17:55:01,586] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:54:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:54:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:55:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:54:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:54:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:54:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:54:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:54:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:54:36
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:54:37
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:54:46
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:54:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:54:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:54:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:54:48
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:54:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:54:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:54:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:54:42
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  32.29s          2024-12-24T20:54:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:54:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:54:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:54:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:54:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:55:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:54:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:54:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:54:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:54:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:54:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:54:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:54:51
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:54:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:54:54
+================================================================================
+[2024-12-24 17:55:49,686] {manager.py:690} INFO - Searching for files in /home/arthur/pipeline_tweets/airflow_pipeline/dags
+[2024-12-24 17:55:49,690] {manager.py:693} INFO - There are 34 files in /home/arthur/pipeline_tweets/airflow_pipeline/dags
+[2024-12-24 17:56:04,771] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:55:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.21s           2024-12-24T20:55:22
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:55:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:55:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:55:26
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  32.29s          2024-12-24T20:55:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:55:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  -32.08s         2024-12-24T20:55:17
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:55:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:55:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:55:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.21s           2024-12-24T20:55:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  32.39s          2024-12-24T20:56:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:55:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:55:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:55:11
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  32.29s          2024-12-24T20:55:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:55:13
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.21s           2024-12-24T20:55:14
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  32.29s          2024-12-24T20:54:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:54:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:54:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:54:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:54:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:55:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:55:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:55:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:55:03
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:55:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:55:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:55:17
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:54:51
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.20s           2024-12-24T20:55:22
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:54:54
+================================================================================
+[2024-12-24 17:56:03,241] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:55:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:55:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:55:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:55:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:55:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  32.29s          2024-12-24T20:55:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:55:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:55:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:56:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:56:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:55:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:55:51
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  32.39s          2024-12-24T20:56:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:56:03
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:55:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:55:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  32.29s          2024-12-24T20:55:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:55:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:55:36
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:56:09
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:55:39
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:55:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:55:42
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:55:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:55:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:55:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:55:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:55:46
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  -32.08s         2024-12-24T20:55:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:55:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:55:48
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:55:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:55:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:55:40
+================================================================================
+[2024-12-24 17:56:33,825] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:55:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:56:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:56:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:56:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:56:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  -32.08s         2024-12-24T20:56:32
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:56:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:56:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:56:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:56:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:56:22
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:56:24
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  32.39s          2024-12-24T20:56:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:56:03
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:56:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:56:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:56:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:56:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:56:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:56:09
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:56:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:56:12
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:56:13
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:56:14
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:56:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:56:28
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:56:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:56:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:56:20
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:56:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:56:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:56:08
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:56:26
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:56:11
+================================================================================
+[2024-12-24 17:57:04,580] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:56:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.20s           2024-12-24T20:56:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:56:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:57:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:57:03
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:57:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:56:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:56:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:56:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:56:36
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:56:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:56:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:56:37
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:56:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:56:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:56:39
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:56:48
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:56:39
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:56:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:56:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:56:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:56:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:56:46
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:56:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:56:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:57:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:56:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:56:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:56:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:57:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:56:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:56:42
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:56:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:56:44
+================================================================================
+[2024-12-24 17:57:35,365] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:57:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:57:17
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:56:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:57:20
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:57:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  -32.09s         2024-12-24T20:57:22
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:57:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:57:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:57:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:57:26
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:57:13
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:57:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  32.29s          2024-12-24T20:57:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:57:28
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:57:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:57:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:57:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:57:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:57:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:57:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:56:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:56:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:56:46
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:56:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:56:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:57:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:56:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:56:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:56:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:57:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:56:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:57:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:57:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:56:44
+================================================================================
+[2024-12-24 17:58:06,110] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:57:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:57:51
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:57:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:57:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:57:55
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:57:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:57:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:57:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:57:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:58:00
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:57:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:57:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  32.29s          2024-12-24T20:57:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:58:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:57:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:58:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  32.29s          2024-12-24T20:58:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:58:03
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:58:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:58:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:57:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  -32.08s         2024-12-24T20:57:37
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:57:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:57:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:57:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:57:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:57:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:57:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:57:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:57:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:57:46
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:57:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:57:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:57:37
+================================================================================
+[2024-12-24 17:58:36,752] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:58:28
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:58:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:58:11
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:58:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.10s           2024-12-24T20:58:26
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:58:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:58:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:58:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:58:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:58:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:58:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:58:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:58:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:58:32
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:58:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:58:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  32.29s          2024-12-24T20:58:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:58:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:58:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:58:36
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  -32.08s         2024-12-24T20:58:07
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:58:09
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:58:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:58:11
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:58:12
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:58:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:58:13
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:58:14
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:58:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:58:24
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:58:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:58:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:58:20
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:58:08
+================================================================================
+[2024-12-24 17:59:07,434] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:59:01
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:58:54
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:58:43
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:58:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  32.29s          2024-12-24T20:59:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:58:58
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:58:59
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:58:45
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:59:02
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:59:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:58:48
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:58:49
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:59:04
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:59:05
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:58:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:59:06
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:59:07
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.10s           2024-12-24T20:58:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:58:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:58:36
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:58:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:58:40
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:58:41
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:58:42
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.20s           2024-12-24T20:58:44
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:58:56
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:58:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:58:47
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:58:50
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:58:57
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:58:52
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:58:37
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.10s           2024-12-24T20:58:53
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:58:39
+================================================================================
+[2024-12-24 17:59:38,199] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.10s           2024-12-24T20:59:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.10s           2024-12-24T20:59:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.10s           2024-12-24T20:59:16
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.10s           2024-12-24T20:59:30
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  32.29s          2024-12-24T20:59:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.10s           2024-12-24T20:59:31
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.10s           2024-12-24T20:59:32
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.10s           2024-12-24T20:59:17
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.10s           2024-12-24T20:59:33
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.10s           2024-12-24T20:59:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.10s           2024-12-24T20:59:21
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.10s           2024-12-24T20:59:22
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.10s           2024-12-24T20:59:34
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.10s           2024-12-24T20:59:35
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.10s           2024-12-24T20:59:24
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.10s           2024-12-24T20:59:37
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.10s           2024-12-24T20:59:38
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  -32.09s         2024-12-24T20:59:08
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.10s           2024-12-24T20:59:08
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.10s           2024-12-24T20:59:10
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.10s           2024-12-24T20:59:12
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.10s           2024-12-24T20:59:13
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.10s           2024-12-24T20:59:14
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.10s           2024-12-24T20:59:15
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.10s           2024-12-24T20:59:18
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.10s           2024-12-24T20:59:28
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.10s           2024-12-24T20:59:19
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.10s           2024-12-24T20:59:20
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.10s           2024-12-24T20:59:23
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.10s           2024-12-24T20:59:29
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.10s           2024-12-24T20:59:27
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.10s           2024-12-24T20:59:11
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2024-12-24T20:59:25
+/home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2024-12-24T20:59:12
+================================================================================

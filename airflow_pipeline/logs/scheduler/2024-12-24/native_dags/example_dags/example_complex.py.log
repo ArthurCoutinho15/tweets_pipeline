@@ -541,3 +541,73 @@
 [2024-12-24 17:53:52,147] {logging_mixin.py:115} INFO - [2024-12-24 17:53:52,147] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:53:52,157] {logging_mixin.py:115} INFO - [2024-12-24 17:53:52,157] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
 [2024-12-24 17:53:52,166] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2024-12-24 17:54:30,883] {processor.py:153} INFO - Started process (PID=44158) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:54:30,884] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:54:30,884] {logging_mixin.py:115} INFO - [2024-12-24 17:54:30,884] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:54:30,891] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:54:30,905] {logging_mixin.py:115} INFO - [2024-12-24 17:54:30,905] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:54:30,915] {logging_mixin.py:115} INFO - [2024-12-24 17:54:30,915] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:54:30,924] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2024-12-24 17:55:01,488] {processor.py:153} INFO - Started process (PID=44390) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:01,489] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:55:01,490] {logging_mixin.py:115} INFO - [2024-12-24 17:55:01,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:01,497] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:01,511] {logging_mixin.py:115} INFO - [2024-12-24 17:55:01,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:01,522] {logging_mixin.py:115} INFO - [2024-12-24 17:55:01,522] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:55:01,531] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2024-12-24 17:55:44,387] {processor.py:153} INFO - Started process (PID=44580) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:44,388] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:55:44,388] {logging_mixin.py:115} INFO - [2024-12-24 17:55:44,388] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:44,395] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:55:44,408] {logging_mixin.py:115} INFO - [2024-12-24 17:55:44,407] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:44,418] {logging_mixin.py:115} INFO - [2024-12-24 17:55:44,418] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:55:44,428] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2024-12-24 17:56:16,849] {processor.py:153} INFO - Started process (PID=44764) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:16,850] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:56:16,850] {logging_mixin.py:115} INFO - [2024-12-24 17:56:16,850] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:16,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:16,871] {logging_mixin.py:115} INFO - [2024-12-24 17:56:16,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:16,881] {logging_mixin.py:115} INFO - [2024-12-24 17:56:16,881] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:56:16,890] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2024-12-24 17:56:49,731] {processor.py:153} INFO - Started process (PID=44908) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:49,732] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:56:49,732] {logging_mixin.py:115} INFO - [2024-12-24 17:56:49,732] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:49,740] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:56:49,753] {logging_mixin.py:115} INFO - [2024-12-24 17:56:49,753] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:49,765] {logging_mixin.py:115} INFO - [2024-12-24 17:56:49,765] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:56:49,775] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2024-12-24 17:57:41,805] {processor.py:153} INFO - Started process (PID=45161) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:57:41,806] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:57:41,806] {logging_mixin.py:115} INFO - [2024-12-24 17:57:41,806] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:57:41,813] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:57:41,826] {logging_mixin.py:115} INFO - [2024-12-24 17:57:41,826] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:41,836] {logging_mixin.py:115} INFO - [2024-12-24 17:57:41,836] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:57:41,845] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2024-12-24 17:58:12,060] {processor.py:153} INFO - Started process (PID=45337) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:12,060] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:58:12,061] {logging_mixin.py:115} INFO - [2024-12-24 17:58:12,061] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:12,068] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:12,080] {logging_mixin.py:115} INFO - [2024-12-24 17:58:12,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:12,091] {logging_mixin.py:115} INFO - [2024-12-24 17:58:12,091] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:58:12,100] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2024-12-24 17:58:44,569] {processor.py:153} INFO - Started process (PID=45585) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:44,570] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:58:44,571] {logging_mixin.py:115} INFO - [2024-12-24 17:58:44,571] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:44,598] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:58:44,623] {logging_mixin.py:115} INFO - [2024-12-24 17:58:44,623] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:44,659] {logging_mixin.py:115} INFO - [2024-12-24 17:58:44,659] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:58:44,680] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2024-12-24 17:59:18,215] {processor.py:153} INFO - Started process (PID=45765) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:18,216] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:59:18,217] {logging_mixin.py:115} INFO - [2024-12-24 17:59:18,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:18,224] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:18,237] {logging_mixin.py:115} INFO - [2024-12-24 17:59:18,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:18,248] {logging_mixin.py:115} INFO - [2024-12-24 17:59:18,248] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:59:18,257] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2024-12-24 17:59:49,091] {processor.py:153} INFO - Started process (PID=46009) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:49,092] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-24 17:59:49,092] {logging_mixin.py:115} INFO - [2024-12-24 17:59:49,092] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:49,101] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-24 17:59:49,117] {logging_mixin.py:115} INFO - [2024-12-24 17:59:49,116] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:49,129] {logging_mixin.py:115} INFO - [2024-12-24 17:59:49,129] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-24 17:59:49,143] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds

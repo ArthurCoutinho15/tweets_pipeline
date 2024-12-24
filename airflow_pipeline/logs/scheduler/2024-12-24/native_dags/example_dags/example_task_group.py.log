@@ -576,3 +576,80 @@
 [2024-12-24 17:53:55,639] {logging_mixin.py:115} INFO - [2024-12-24 17:53:55,639] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:53:55,651] {logging_mixin.py:115} INFO - [2024-12-24 17:53:55,650] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:53:55.650708+00:00, run_after=2024-12-24T20:53:55.650708+00:00
 [2024-12-24 17:53:55,661] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2024-12-24 17:54:35,175] {processor.py:153} INFO - Started process (PID=44233) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:54:35,176] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:54:35,176] {logging_mixin.py:115} INFO - [2024-12-24 17:54:35,176] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:54:35,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:54:35,192] {logging_mixin.py:115} INFO - [2024-12-24 17:54:35,192] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:54:35,202] {logging_mixin.py:115} INFO - [2024-12-24 17:54:35,202] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:54:35.202132+00:00, run_after=2024-12-24T20:54:35.202132+00:00
+[2024-12-24 17:54:35,212] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.039 seconds
+[2024-12-24 17:55:05,966] {processor.py:153} INFO - Started process (PID=44409) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:05,967] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:55:05,967] {logging_mixin.py:115} INFO - [2024-12-24 17:55:05,967] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:05,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:05,983] {logging_mixin.py:115} INFO - [2024-12-24 17:55:05,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:05,992] {logging_mixin.py:115} INFO - [2024-12-24 17:55:05,992] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:55:05.992526+00:00, run_after=2024-12-24T20:55:05.992526+00:00
+[2024-12-24 17:55:06,002] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds
+[2024-12-24 17:55:27,885] {processor.py:153} INFO - Started process (PID=44509) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:27,886] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:55:27,886] {logging_mixin.py:115} INFO - [2024-12-24 17:55:27,886] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:27,891] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:27,902] {logging_mixin.py:115} INFO - [2024-12-24 17:55:27,902] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:27,913] {logging_mixin.py:115} INFO - [2024-12-24 17:55:27,913] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:55:27.913214+00:00, run_after=2024-12-24T20:55:27.913214+00:00
+[2024-12-24 17:55:27,923] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2024-12-24 17:55:58,640] {processor.py:153} INFO - Started process (PID=44676) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:58,640] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:55:58,640] {logging_mixin.py:115} INFO - [2024-12-24 17:55:58,640] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:58,645] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:55:58,656] {logging_mixin.py:115} INFO - [2024-12-24 17:55:58,656] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:58,667] {logging_mixin.py:115} INFO - [2024-12-24 17:55:58,666] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:55:58.666755+00:00, run_after=2024-12-24T20:55:58.666755+00:00
+[2024-12-24 17:55:58,677] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.039 seconds
+[2024-12-24 17:56:33,728] {processor.py:153} INFO - Started process (PID=44842) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:56:33,729] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:56:33,730] {logging_mixin.py:115} INFO - [2024-12-24 17:56:33,729] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:56:33,734] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:56:33,745] {logging_mixin.py:115} INFO - [2024-12-24 17:56:33,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:33,756] {logging_mixin.py:115} INFO - [2024-12-24 17:56:33,756] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:56:33.756274+00:00, run_after=2024-12-24T20:56:33.756274+00:00
+[2024-12-24 17:56:33,766] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2024-12-24 17:57:05,107] {processor.py:153} INFO - Started process (PID=44978) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:05,107] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:57:05,108] {logging_mixin.py:115} INFO - [2024-12-24 17:57:05,107] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:05,117] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:05,130] {logging_mixin.py:115} INFO - [2024-12-24 17:57:05,130] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:05,141] {logging_mixin.py:115} INFO - [2024-12-24 17:57:05,141] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:57:05.141423+00:00, run_after=2024-12-24T20:57:05.141423+00:00
+[2024-12-24 17:57:05,150] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2024-12-24 17:57:23,881] {processor.py:153} INFO - Started process (PID=45059) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:23,882] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:57:23,883] {logging_mixin.py:115} INFO - [2024-12-24 17:57:23,882] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:23,887] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:23,899] {logging_mixin.py:115} INFO - [2024-12-24 17:57:23,899] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:23,910] {logging_mixin.py:115} INFO - [2024-12-24 17:57:23,910] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:57:23.910401+00:00, run_after=2024-12-24T20:57:23.910401+00:00
+[2024-12-24 17:57:23,920] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2024-12-24 17:57:56,932] {processor.py:153} INFO - Started process (PID=45254) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:56,933] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:57:56,934] {logging_mixin.py:115} INFO - [2024-12-24 17:57:56,934] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:56,938] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:57:56,950] {logging_mixin.py:115} INFO - [2024-12-24 17:57:56,950] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:56,961] {logging_mixin.py:115} INFO - [2024-12-24 17:57:56,961] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:57:56.960848+00:00, run_after=2024-12-24T20:57:56.960848+00:00
+[2024-12-24 17:57:56,970] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.040 seconds
+[2024-12-24 17:58:27,180] {processor.py:153} INFO - Started process (PID=45447) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:27,181] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:58:27,181] {logging_mixin.py:115} INFO - [2024-12-24 17:58:27,181] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:27,186] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:27,199] {logging_mixin.py:115} INFO - [2024-12-24 17:58:27,198] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:27,210] {logging_mixin.py:115} INFO - [2024-12-24 17:58:27,210] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:58:27.210086+00:00, run_after=2024-12-24T20:58:27.210086+00:00
+[2024-12-24 17:58:27,219] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2024-12-24 17:58:59,785] {processor.py:153} INFO - Started process (PID=45681) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:59,786] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:58:59,787] {logging_mixin.py:115} INFO - [2024-12-24 17:58:59,787] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:59,791] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:58:59,803] {logging_mixin.py:115} INFO - [2024-12-24 17:58:59,803] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:59,814] {logging_mixin.py:115} INFO - [2024-12-24 17:58:59,814] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:58:59.814639+00:00, run_after=2024-12-24T20:58:59.814639+00:00
+[2024-12-24 17:58:59,823] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.040 seconds
+[2024-12-24 17:59:31,925] {processor.py:153} INFO - Started process (PID=45873) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:59:31,925] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-24 17:59:31,926] {logging_mixin.py:115} INFO - [2024-12-24 17:59:31,926] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:59:31,930] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-24 17:59:31,941] {logging_mixin.py:115} INFO - [2024-12-24 17:59:31,941] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:31,951] {logging_mixin.py:115} INFO - [2024-12-24 17:59:31,951] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-23T20:59:31.951719+00:00, run_after=2024-12-24T20:59:31.951719+00:00
+[2024-12-24 17:59:31,961] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds

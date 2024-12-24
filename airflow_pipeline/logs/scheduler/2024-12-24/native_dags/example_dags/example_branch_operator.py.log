@@ -562,3 +562,59 @@
 [2024-12-24 17:53:45,273] {logging_mixin.py:115} INFO - [2024-12-24 17:53:45,273] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:53:45,284] {logging_mixin.py:115} INFO - [2024-12-24 17:53:45,284] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
 [2024-12-24 17:53:45,294] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.043 seconds
+[2024-12-24 17:54:17,253] {processor.py:153} INFO - Started process (PID=44068) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:54:17,254] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:54:17,254] {logging_mixin.py:115} INFO - [2024-12-24 17:54:17,254] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:54:17,262] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:54:17,276] {logging_mixin.py:115} INFO - [2024-12-24 17:54:17,275] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:54:17,290] {logging_mixin.py:115} INFO - [2024-12-24 17:54:17,290] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:54:17,304] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2024-12-24 17:56:09,654] {processor.py:153} INFO - Started process (PID=44550) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:09,655] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:56:09,656] {logging_mixin.py:115} INFO - [2024-12-24 17:56:09,656] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:09,663] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:09,674] {logging_mixin.py:115} INFO - [2024-12-24 17:56:09,674] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:09,685] {logging_mixin.py:115} INFO - [2024-12-24 17:56:09,685] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:56:09,694] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.042 seconds
+[2024-12-24 17:56:41,305] {processor.py:153} INFO - Started process (PID=44871) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:41,306] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:56:41,307] {logging_mixin.py:115} INFO - [2024-12-24 17:56:41,307] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:41,314] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:56:41,325] {logging_mixin.py:115} INFO - [2024-12-24 17:56:41,325] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:41,338] {logging_mixin.py:115} INFO - [2024-12-24 17:56:41,338] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:56:41,347] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2024-12-24 17:57:34,143] {processor.py:153} INFO - Started process (PID=45103) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:57:34,144] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:57:34,145] {logging_mixin.py:115} INFO - [2024-12-24 17:57:34,145] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:57:34,151] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:57:34,162] {logging_mixin.py:115} INFO - [2024-12-24 17:57:34,162] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:34,174] {logging_mixin.py:115} INFO - [2024-12-24 17:57:34,174] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:57:34,183] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.042 seconds
+[2024-12-24 17:58:06,012] {processor.py:153} INFO - Started process (PID=45306) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:06,013] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:58:06,013] {logging_mixin.py:115} INFO - [2024-12-24 17:58:06,013] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:06,020] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:06,032] {logging_mixin.py:115} INFO - [2024-12-24 17:58:06,032] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:06,044] {logging_mixin.py:115} INFO - [2024-12-24 17:58:06,044] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:58:06,055] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2024-12-24 17:58:36,655] {processor.py:153} INFO - Started process (PID=45508) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:36,655] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:58:36,656] {logging_mixin.py:115} INFO - [2024-12-24 17:58:36,656] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:36,663] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:58:36,674] {logging_mixin.py:115} INFO - [2024-12-24 17:58:36,674] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:36,686] {logging_mixin.py:115} INFO - [2024-12-24 17:58:36,686] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:58:36,698] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2024-12-24 17:59:09,909] {processor.py:153} INFO - Started process (PID=45722) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:09,911] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:59:09,911] {logging_mixin.py:115} INFO - [2024-12-24 17:59:09,911] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:09,920] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:09,938] {logging_mixin.py:115} INFO - [2024-12-24 17:59:09,938] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:09,955] {logging_mixin.py:115} INFO - [2024-12-24 17:59:09,955] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:59:09,968] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.061 seconds
+[2024-12-24 17:59:40,298] {processor.py:153} INFO - Started process (PID=45966) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:40,298] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-24 17:59:40,298] {logging_mixin.py:115} INFO - [2024-12-24 17:59:40,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:40,305] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-24 17:59:40,316] {logging_mixin.py:115} INFO - [2024-12-24 17:59:40,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:40,327] {logging_mixin.py:115} INFO - [2024-12-24 17:59:40,327] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-23T00:00:00+00:00, run_after=2024-12-24T00:00:00+00:00
+[2024-12-24 17:59:40,336] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.040 seconds

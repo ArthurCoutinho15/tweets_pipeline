@@ -730,3 +730,87 @@
 [2024-12-24 17:54:15,353] {logging_mixin.py:115} INFO - [2024-12-24 17:54:15,353] {dag.py:2379} INFO - Sync 1 DAGs
 [2024-12-24 17:54:15,366] {logging_mixin.py:115} INFO - [2024-12-24 17:54:15,366] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:54:15.366388+00:00, run_after=2024-12-24T20:54:15.366388+00:00
 [2024-12-24 17:54:15,377] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
+[2024-12-24 17:54:46,844] {processor.py:153} INFO - Started process (PID=44325) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:54:46,845] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:54:46,845] {logging_mixin.py:115} INFO - [2024-12-24 17:54:46,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:54:46,849] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:54:46,861] {logging_mixin.py:115} INFO - [2024-12-24 17:54:46,861] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:54:46,872] {logging_mixin.py:115} INFO - [2024-12-24 17:54:46,872] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:54:46.871858+00:00, run_after=2024-12-24T20:54:46.871858+00:00
+[2024-12-24 17:54:46,880] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.039 seconds
+[2024-12-24 17:55:18,660] {processor.py:153} INFO - Started process (PID=44471) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:18,661] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:55:18,661] {logging_mixin.py:115} INFO - [2024-12-24 17:55:18,661] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:18,666] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:18,682] {logging_mixin.py:115} INFO - [2024-12-24 17:55:18,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:18,706] {logging_mixin.py:115} INFO - [2024-12-24 17:55:18,706] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:55:18.706228+00:00, run_after=2024-12-24T20:55:18.706228+00:00
+[2024-12-24 17:55:18,721] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2024-12-24 17:55:50,640] {processor.py:153} INFO - Started process (PID=44621) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:50,641] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:55:50,641] {logging_mixin.py:115} INFO - [2024-12-24 17:55:50,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:50,645] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:55:50,657] {logging_mixin.py:115} INFO - [2024-12-24 17:55:50,657] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:55:50,670] {logging_mixin.py:115} INFO - [2024-12-24 17:55:50,670] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:55:50.670440+00:00, run_after=2024-12-24T20:55:50.670440+00:00
+[2024-12-24 17:55:50,680] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2024-12-24 17:56:22,437] {processor.py:153} INFO - Started process (PID=44789) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:22,438] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:56:22,438] {logging_mixin.py:115} INFO - [2024-12-24 17:56:22,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:22,442] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:22,453] {logging_mixin.py:115} INFO - [2024-12-24 17:56:22,453] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:22,464] {logging_mixin.py:115} INFO - [2024-12-24 17:56:22,464] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:56:22.464176+00:00, run_after=2024-12-24T20:56:22.464176+00:00
+[2024-12-24 17:56:22,474] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.039 seconds
+[2024-12-24 17:56:54,859] {processor.py:153} INFO - Started process (PID=44933) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:54,859] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:56:54,860] {logging_mixin.py:115} INFO - [2024-12-24 17:56:54,860] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:54,875] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:56:54,897] {logging_mixin.py:115} INFO - [2024-12-24 17:56:54,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:56:54,914] {logging_mixin.py:115} INFO - [2024-12-24 17:56:54,914] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:56:54.914537+00:00, run_after=2024-12-24T20:56:54.914537+00:00
+[2024-12-24 17:56:54,926] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2024-12-24 17:57:13,807] {processor.py:153} INFO - Started process (PID=45015) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:13,808] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:57:13,808] {logging_mixin.py:115} INFO - [2024-12-24 17:57:13,808] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:13,812] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:13,824] {logging_mixin.py:115} INFO - [2024-12-24 17:57:13,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:13,835] {logging_mixin.py:115} INFO - [2024-12-24 17:57:13,835] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:57:13.835580+00:00, run_after=2024-12-24T20:57:13.835580+00:00
+[2024-12-24 17:57:13,844] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2024-12-24 17:57:47,268] {processor.py:153} INFO - Started process (PID=45210) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:47,269] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:57:47,270] {logging_mixin.py:115} INFO - [2024-12-24 17:57:47,270] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:47,273] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:57:47,284] {logging_mixin.py:115} INFO - [2024-12-24 17:57:47,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:57:47,294] {logging_mixin.py:115} INFO - [2024-12-24 17:57:47,294] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:57:47.294225+00:00, run_after=2024-12-24T20:57:47.294225+00:00
+[2024-12-24 17:57:47,303] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.037 seconds
+[2024-12-24 17:58:18,009] {processor.py:153} INFO - Started process (PID=45393) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:18,009] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:58:18,010] {logging_mixin.py:115} INFO - [2024-12-24 17:58:18,010] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:18,014] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:18,026] {logging_mixin.py:115} INFO - [2024-12-24 17:58:18,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:18,038] {logging_mixin.py:115} INFO - [2024-12-24 17:58:18,038] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:58:18.037849+00:00, run_after=2024-12-24T20:58:18.037849+00:00
+[2024-12-24 17:58:18,048] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2024-12-24 17:58:48,534] {processor.py:153} INFO - Started process (PID=45630) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:48,535] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:58:48,536] {logging_mixin.py:115} INFO - [2024-12-24 17:58:48,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:48,540] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:58:48,551] {logging_mixin.py:115} INFO - [2024-12-24 17:58:48,551] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:58:48,562] {logging_mixin.py:115} INFO - [2024-12-24 17:58:48,562] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:58:48.562610+00:00, run_after=2024-12-24T20:58:48.562610+00:00
+[2024-12-24 17:58:48,572] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2024-12-24 17:59:21,162] {processor.py:153} INFO - Started process (PID=45792) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:21,162] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:59:21,162] {logging_mixin.py:115} INFO - [2024-12-24 17:59:21,162] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:21,166] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:21,177] {logging_mixin.py:115} INFO - [2024-12-24 17:59:21,177] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:21,188] {logging_mixin.py:115} INFO - [2024-12-24 17:59:21,188] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:59:21.188152+00:00, run_after=2024-12-24T20:59:21.188152+00:00
+[2024-12-24 17:59:21,197] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.037 seconds
+[2024-12-24 17:59:51,545] {processor.py:153} INFO - Started process (PID=46018) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:51,562] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:59:51,562] {logging_mixin.py:115} INFO - [2024-12-24 17:59:51,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:51,566] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:51,577] {logging_mixin.py:115} INFO - [2024-12-24 17:59:51,577] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:51,588] {logging_mixin.py:115} INFO - [2024-12-24 17:59:51,588] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:59:51.587827+00:00, run_after=2024-12-24T20:59:51.587827+00:00
+[2024-12-24 17:59:51,655] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.112 seconds
+[2024-12-24 17:59:59,080] {processor.py:153} INFO - Started process (PID=46053) to work on /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:59,080] {processor.py:641} INFO - Processing file /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-24 17:59:59,081] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,081] {dagbag.py:507} INFO - Filling up the DagBag from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:59,085] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-24 17:59:59,098] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 17:59:59,111] {logging_mixin.py:115} INFO - [2024-12-24 17:59:59,111] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-23T20:59:59.110861+00:00, run_after=2024-12-24T20:59:59.110861+00:00
+[2024-12-24 17:59:59,122] {processor.py:161} INFO - Processing /home/arthur/pipeline_tweets/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
