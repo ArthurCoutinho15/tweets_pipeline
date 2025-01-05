@@ -1,5 +1,8 @@
 <h1>Pipeline de extração de api tweets</h1>
-    <h2>Utilização Apache Airflow</h2>
+    <h2>Utilização Apache Airflow (Ambiente Linux Ubuntu WSL)</h2>
+        <ul>
+            <li> Utilizando a extensão remote explorer do vscode se conecte ao Ubuntu</li>
+        </ul>
         <ul>
             <li>Baixe o python 3.9 <code>sudo apt install python3.9</code></li>
         </ul>
@@ -24,8 +27,8 @@
             <ul> Para verificar as conexões existentes <code>airflow connections list</code> </ul>  
         </li>
 <h1>Utilização do Apache Spark</h1>
-    <li>
+    <ul>
         <h2>Instale o java 8 no wsl <code>sudo apt-get install openjdk-8-jdk-headless -qq</code></h2>
-        <ul>Para instalar o spark dentro do ambiente virtual faça a instalação <code>!pip install pyspark==3.3.1</code></ul>
-    </li>
+        <li>Para instalar o spark dentro do ambiente virtual faça a instalação <code>!pip install pyspark==3.3.1</code></li>
+    </ul>
 
