@@ -19,13 +19,13 @@
             <li>Instalar biblioteca airflow com constraint <code>pip install 'apache-airflow==2.3.2' --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.3.2/constraints-3.9.txt"</code></li>
         </ul>
     <h2>Para executar o código siga o passo a passo</h2>
-        <li> 
-            <ul> Entre no ambiente virtual <code>source venv/bin/activate</code> </ul>
-            <ul> Execute toda vez que utilizar o airflow <code> export AIRFLOW_HOME=~/pipeline_tweets/airflow_pipeline </code></ul> 
-            <ul> Para rodar o airflow web server Execute <code>airflow standalone</code></ul> 
-            <ul> Execute na pasta do hook <code>cd airflow_pipeline -> cd hook -> python3 twitter_hook.py</code></ul>
-            <ul> Para verificar as conexões existentes <code>airflow connections list</code> </ul>  
-        </li>
+        <ul> 
+            <li> Entre no ambiente virtual <code>source venv/bin/activate</code> </li>
+            <li> Execute toda vez que utilizar o airflow <code> export AIRFLOW_HOME=~/pipeline_tweets/airflow_pipeline </code></li> 
+            <li> Para rodar o airflow web server Execute <code>airflow standalone</code></li> 
+            <li> Execute na pasta do hook <code>cd airflow_pipeline -> cd hook -> python3 twitter_hook.py</code></li>
+            <li> Para verificar as conexões existentes <code>airflow connections list</code> </li>  
+        </ul>
 <h1>Utilização do Apache Spark</h1>
     <ul>
         <h2>Instale o java 8 no wsl <code>sudo apt-get install openjdk-8-jdk-headless -qq</code></h2>
