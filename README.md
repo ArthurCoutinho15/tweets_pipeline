@@ -30,5 +30,10 @@
     <ul>
         <h2>Instale o java 8 no wsl <code>sudo apt-get install openjdk-8-jdk-headless -qq</code></h2>
         <li>Para instalar o spark dentro do ambiente virtual faça a instalação <code>!pip install pyspark==3.3.1</code></li>
+        <li>Para instalar o spark submit <code>wget https://archive.apache.org/dist/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz</code></li>
+        <li>Extrair arquivo gerado após download do Spark submit <code>tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz</code></li>
+        <li>Para executar o script spark é necessário entrar na pasta do arquivo extraido <code>cd spark-3.1.3-bin-hadoop3.2/</code> </li>
+        <li>Após isso devemos passar o caminho do script para o executável spark-submit <code>./bin/spark-submit /home/arthur/pipeline_tweets/src/spark/transformation.py </code></li>
+        <li>Na mesma linha passar os parâmentros do código (--src, --dest, --process_date) <code>--src /home/arthur/pipeline_tweets/datalake/twitter_datascience --dest /home/arthur/pipeline_tweets/src/spark --process_date 2025-08-15</code></li>
     </ul>
 
