@@ -48,4 +48,3 @@ if __name__ == '__main__':
     main(spark, args.src, args.dest, args.process_date)
     
             
-    
