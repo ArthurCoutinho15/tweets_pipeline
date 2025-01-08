@@ -39,4 +39,7 @@
         <li>Exporte a variável de ambiente do spark <code>export SPARK_HOME=/home/arthur/pipeline_tweets/spark-3.1.3-bin-hadoop3.2</code></li>
         <li>Dentro do airflow entre em admin > connections. Depois adicione <code>"local"</code> em host </li>
     </ul>
+<h1>Diagrama e Interface Airflow</h1>
+    <img src='https://github.com/ArthurCoutinho15/tweets_pipeline/blob/main/img/Captura%20de%20tela%202025-01-08%20204822.png'>
+    <img src='https://github.com/ArthurCoutinho15/tweets_pipeline/blob/main/img/Diagrama_pipeline_tweets.png'>
 
