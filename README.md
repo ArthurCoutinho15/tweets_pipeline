@@ -13,7 +13,7 @@
             <li>Criar ambiente virtual <code>python3.9 -m venv venv</code></li>
         </ul>
         <ul>
-            <li>Entrar no ambiente virtual <code>source venv/bin/activate<</code></li>
+            <li>Entrar no ambiente virtual <code>source venv/bin/activate</code></li>
         </ul>
         <ul>
             <li>Instalar biblioteca airflow com constraint <code>pip install 'apache-airflow==2.3.2' --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.3.2/constraints-3.9.txt"</code></li>
@@ -35,5 +35,8 @@
         <li>Para executar o script spark é necessário entrar na pasta do arquivo extraido <code>cd spark-3.1.3-bin-hadoop3.2/</code> </li>
         <li>Após isso devemos passar o caminho do script para o executável spark-submit <code>./bin/spark-submit /home/arthur/pipeline_tweets/src/spark/transformation.py </code></li>
         <li>Na mesma linha passar os parâmentros do código (--src, --dest, --process_date) <code>--src /home/arthur/pipeline_tweets/datalake/twitter_datascience --dest /home/arthur/pipeline_tweets/src/spark --process_date 2025-08-15</code></li>
+        <li>Para instalar o Operator do Spark para o Airflow execute <code>pip install apache-airflow-providers-apache-spark==4.0.0</code></li>
+        <li>Exporte a variável de ambiente do spark <code>export SPARK_HOME=/home/arthur/pipeline_tweets/spark-3.1.3-bin-hadoop3.2</code></li>
+        <li>Dentro do airflow entre em admin > connections. Depois adicione <code>"local"</code> em host </li>
     </ul>
 
