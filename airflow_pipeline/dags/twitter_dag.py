@@ -10,7 +10,7 @@ from pathlib import Path
     
 with DAG(dag_id = "TwitterDAG", start_date=days_ago(2), schedule_interval="@daily") as dag:
     BASEFOLDER = join(
-        str(Path('~/home').expanduser()),
+        str(Path('~/').expanduser()),
         "pipeline_tweets/datalake/{stage}/twitter_datascience/{partition}"
     )
     PARTITION_FOLDER_EXTRACT = "extract_date={{ data_interval_start.strftime('%Y-%m-%d') }}"
@@ -31,5 +31,12 @@ with DAG(dag_id = "TwitterDAG", start_date=days_ago(2), schedule_interval="@dail
                                                               "--dest", BASEFOLDER.format(stage='silver', partition=""),
                                                               "--process_date", "{{ ds }}"])
     
-    twitter_operator >> twitter_transform
+    twitter_insight = SparkSubmitOperator(task_id = 'twitter_insight_datascience',
+                                          application='/home/arthur/pipeline_tweets/src/spark/insight_tweet.py',
+                                          name='insight_twitter',
+                                          application_args=['--src', BASEFOLDER.format(stage='silver', partition=''),
+                                                            '--dest', BASEFOLDER.format(stage='gold', partition=''),
+                                                            '--process_date','{{ ds }}'])
+    
+    twitter_operator >> twitter_transform >> twitter_insight
     
